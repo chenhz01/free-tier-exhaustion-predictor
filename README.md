@@ -4,6 +4,8 @@ Free tiers die quietly: usage drifts up while the quota barely moves, and the se
 
 As of 2026-10-13, no direct equivalent found as of 2026-10-13: cloud consoles show current spend, but searches across GitHub (194 queries) and the web found no standalone, vendor-neutral rate-extrapolation exhaustion forecaster.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Quota exhaustion is predictable in hindsight and surprising in the moment. Dashboards show cumulative usage; nobody diffs the *rate* week over week. When a team's call volume grows 15% monthly, "we still have 40% left" silently means "two weeks left". Finance finds out from a hard error, not a forecast.
